@@ -1,0 +1,6 @@
+C:\Users\matiwa\source\repos\TestPingCSharpV2\TestPingCSharpV2\bin\Debug\TestPingCSharpV2.exe
+C:\Users\matiwa\source\repos\TestPingCSharpV2\TestPingCSharpV2\bin\Debug\TestPingCSharpV2.pdb
+C:\Users\matiwa\source\repos\TestPingCSharpV2\TestPingCSharpV2\obj\Debug\TestPingCSharpV2.csprojAssemblyReference.cache
+C:\Users\matiwa\source\repos\TestPingCSharpV2\TestPingCSharpV2\obj\Debug\TestPingCSharpV2.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\TestPingCSharpV2\TestPingCSharpV2\obj\Debug\TestPingCSharpV2.exe
+C:\Users\matiwa\source\repos\TestPingCSharpV2\TestPingCSharpV2\obj\Debug\TestPingCSharpV2.pdb
